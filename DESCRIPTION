@@ -1,0 +1,14 @@
+Package: BLasso
+Type: Package
+Title: Bayesian Lasso
+Version: 0.1
+Date: 2017-01-01
+Author: Lijin Joo <lijin.joo@gmail.com>
+Maintainer: Lijin Joo <lijin.joo@gmail.com>
+Description: Bayesian Lasso by Gibbs Samplers, Variational Bayes, and an extension with Laplace-Dirichlet priors
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
